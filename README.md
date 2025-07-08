@@ -39,6 +39,6 @@ The primary objective of this project is to develop a deep learning model that c
 ### Primary Dataset Source: 
 midi_classic_music
 
-([https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blanderbuss/midi-classic-music))
+[midi-classic-music](https://www.kaggle.com/datasets/blanderbuss/midi-classic-music)
 
 3929 midi files of classical works by 175 composers including Bach, Beethoven, Mozart, Brahms, Chopin, Tchaikovsky, Strauss, Stravinski, Prokofiev, Rachmaninov, Bernstein, Bartok, Handel, Ravel, Scriabin, and others
