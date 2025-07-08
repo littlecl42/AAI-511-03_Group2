@@ -14,12 +14,13 @@ Use deep learning techniques to identify the composer of a given piece of music 
 
 
 ### Partner(s)/Contributor(s)  
-* Alexis Lim (jdolar@sandiego.edu) (jasper.dolar@gmail.com)
-* Devin Eror (deror@sandiego.edu) (DevinEror@gmail.com)
-* Carrie Little (clittle@sandiego.edu) (carrie.l.little@gmail.com)
+* Alexis Lim (alexislim@sandiego.edu)
+* Carrie Little (clittle@sandiego.edu)
+* Ahmad Milad (amilad@sandiego.edu)
+
 
 ### Github Repository: 
-*	(https://github.com/jasperdolar/AA1510)
+*	(https://github.com/littlecl42/AAI-511-03_Group2/)
 
 
 ### Methods Used
